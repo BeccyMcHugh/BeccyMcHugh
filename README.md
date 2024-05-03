@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+🌱 I’m currently learning how to become a data analyst. I have been a maths teacher for 11 years and I am starting a career change. I am a mum to my two beautiful girls, my husband is a programmer and we have two cheeky cats that run around our feet all day! I am excited to start learning again through CFG.
 
 <!--
 **BeccyMcHugh/BeccyMcHugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
